@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-一个摸鱼的高中生（）
+一位水月厨，同时也是音游玩家
+
+目前就读于XMU
 
 [![SherkeyXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=SherkeyXD&theme=algolia&count_private=true&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
