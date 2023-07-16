@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 正式介绍下自己，我是一名大学牲，也是一名引诱人，一名水月厨，目前的意向是做一名网安人，也希望未来能够按照自己的规划发展qwq
 
-[![SherkeyXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=SherkeyXD&theme=algolia&count_private=true&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![SherkeyXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=SherkeyXD&theme=vue&count_private=true&show_icons=true&hide=stars&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
